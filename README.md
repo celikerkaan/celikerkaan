@@ -5,8 +5,11 @@
 ## About Me
 
 👨‍💼 **Profession:** Jr. Fullstack Developer
+
 💼 **Technologies I work with:** PL/SQL, ReactTS, .NET
+
 🎓 **Education:** Computer Engineering at Cukurova University
+
 🌱 **Learning:** I'm learning: Flutter, Angular
 
 🌈 **Hobbies:** Playing guitar, gaming, watching football, learning new languages
