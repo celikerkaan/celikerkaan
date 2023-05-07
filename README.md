@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello, I'm Kaan 👋🌍
 
-<!--
-**celikerkaan/celikerkaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Jr. Fullstack Developer | 🌱 Eager to Learn | 💡 Creative Solutions | 🌐 Global Collaborator
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💼 **Profession:** Jr. Fullstack Developer
+💼 **Technologies I work with:** PL/SQL, ReactTS, .NET
+🎓 **Education:** Computer Engineering at Cukurova University
+🌱 **Learning:** I'm learning: Flutter, Angular
+
+🌈 **Hobbies:** Playing guitar, gaming, watching football, learning new languages
+
+## 🚀 My Projects
+
+- [LS](private-for-now): An open-source project to publish. Private, coming soon.
+- [Bank Softwares](main-job): I work at Ziraat Teknoloji, Turkey's largest bank IT. In the corporate loans unit, I develop loan disbursement, loan collection and loan restructuring applications and create their screens.
+
+## 💡 Interests
+
+- Web and mobile application development
+- Database management and performance optimization
+- Contributing to open source projects
+- Effective communication and leadership
+
+## 🎯 Goals
+
+- Continuously improve my technical skills and learn new technologies
+- Contribute more to open source projects and provide value to the community
+- Advance in my career, take on larger projects, and serve in leadership positions
+
+## 📈 Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
