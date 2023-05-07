@@ -13,8 +13,8 @@
 
 ## 🚀 My Projects
 
-- [LS](private-for-now): An open-source project to publish. Private, coming soon.
-- [Bank Softwares](main-job): I work at Ziraat Teknoloji, Turkey's largest bank IT. In the corporate loans unit, I develop loan disbursement, loan collection and loan restructuring applications and create their screens.
+- [LS]: An open-source project to publish. Private, coming soon.
+- [Bank Softwares]: I work at Ziraat Teknoloji, Turkey's largest bank IT. In the corporate loans unit, I develop loan disbursement, loan collection and loan restructuring applications and create their screens.
 
 ## 💡 Interests
 
