@@ -36,4 +36,6 @@
 
 ![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=celikerkaan&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celikerkaan&layout=compact)](https://github.com/celikerkaan/github-readme-stats)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=celikerkaan)
