@@ -34,5 +34,5 @@
 
 ## 📈 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=celikerkaan&show_icons=true&theme=default)
+![Profile Views](https://komarev.com/ghpvc/?username=celikerkaan)
